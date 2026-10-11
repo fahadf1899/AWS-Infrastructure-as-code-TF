@@ -1,9 +1,6 @@
 .terraform/
 *.tfstate
-<<<<<<< HEAD
-...
-=======
 *.tfstate.*
-*.tfvars
 crash.log
->>>>>>> b5549b7acb0645284cc980a1a987cdf1ea69bfb2
+*.tfvars
+.terraform.lock.hcl
